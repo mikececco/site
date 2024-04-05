@@ -29,8 +29,6 @@ Spent 3 months upskilling with LeWagon's Coding Bootcamp which lead me to my cur
 
 Near the end of 2020, I was diagnosed with RSI and had to take a break from work. I spent the next 6 months recovering and learning to live with the pain. I had likely worked too much and too hard, and my body was telling me to slow down. I'm still recovering, but I'm doing much better now. -->
 
-## Crisis
-
 It was a very interesting 2 years.
 I had to learn to live independently in a new country, deal with losing a job and planning the trajectory for the upcoming years.
 
