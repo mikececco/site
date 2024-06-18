@@ -41,6 +41,11 @@ IF you want to work with me, I am available for consulting and advisory services
 - [Weights & Biases](https://wandb.ai/): Wandb provides a platform for tracking machine learning experiments, offering tools for visualization, comparison, and collaboration in ML projects.
 - [New Computer](http://new.computer): Dot by New Computer is an intelligent guide designed to help you remember, organize, and navigate your life.
 - [Kay.ai](http://Kay.ai): Retrieve relevant context from the semantic web for your LLM apps with fully hosted embeddings. -->
+## Side Projects
+
+- <a href="https://t.me/SecondHumanBrainBot" target="_blank">AI Second Brain Telegram Bot</a> — WIP
+- <a href="https://t.me/ExpensesOnTelegramBot" target="_blank">AI Expense Tracker Telegram Bot</a> — WIP
+- Self-hosted <a href="https://github.com/mikececco/typescript-first-crypto-exchange" target="_blank">Crypto Exchange</a>
 
 ## Work History
 
