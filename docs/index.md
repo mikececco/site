@@ -8,7 +8,7 @@ IF you want to work with me, I am available for consulting and advisory services
 
 ## [Writing](./writing/index.md)
 
-- [Who am I](./posts/whoami.md)
+- [Who am I](./writing/posts/whoami.md)
 
 <!-- ## AI Engineering
 
