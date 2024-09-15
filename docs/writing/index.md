@@ -8,6 +8,7 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 
 ## Writing
 
+- [Next Chapter](./posts/next-chapter.md)
 - [Who am I](./posts/whoami.md)
 
 <!-- ## AI Engineering

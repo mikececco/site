@@ -10,7 +10,7 @@ authors:
 
 # Who am I?
 
-In the next year, this blog will be painted with a mix of technical software development content and personal notes. I'm spending my 20s thinking about my life than software development. I'm not good at either, but I enjoy both.
+In the next year, this blog will be painted with a mix of technical software development content (not much) and (more) personal notes. I'm spending my 20s thinking and doing what passionates me. I'm not great at nothing, but will get there, I am hustling hard.
 
 ## Life story
 
@@ -32,7 +32,7 @@ Near the end of 2020, I was diagnosed with RSI and had to take a break from work
 It was a very interesting 2 years.
 I had to learn to live independently in a new country, deal with losing a job and planning the trajectory for the upcoming years.
 
-I still strggle thought to be productive. I love spending time reading on Twitter, Hacker News and other blogs about other people's experiences.
+I still struggle though to be hyper-productive. I love spending time reading on Twitter, Hacker News and other blogs about other people's experiences.
 
 I've also found a newfound role as a writer. Someone said that if you died and never wrote anything down, it was a wasted life. It's hyperbolic, but I understood what that meant.
 

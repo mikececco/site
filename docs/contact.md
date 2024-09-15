@@ -1,4 +1,5 @@
-I work with fast growing startups who are looking to invest in their software development. If you're interested in working together please take a look at my [services](services.md) page or book a <a href="#" data-cal-link="mike-cecconello-x03y6u/30min" data-cal-namespace="" data-cal-config='{"layout":"month_view"}'>call</a>. Feel free to reach out me via [email](mailto:mikececco2000@gmail.com) or [twitter](https://twitter.com/mikececconello).
+I work with fast growing startups who are looking to invest in their software development, AI and automations.
+If you're interested in working together please take a look at my [services](services.md) page or book a <a href="#" data-cal-link="mike-cecconello-x03y6u/30min" data-cal-namespace="" data-cal-config='{"layout":"month_view"}'>call</a>. Feel free to reach out me via [email](mailto:mikececconello00@gmail.com).
 
 
 <!-- Cal element-click embed code begins -->

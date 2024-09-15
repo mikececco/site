@@ -1,14 +1,16 @@
 # Software Development Services
 
-I aim to empower you to launch software applications with confidence and precision, swiftly navigating past the AI hype to secure a dream outcome: more users, superior data quality, and enhanced product development. This approach not only elevates your team but also optimizes time and effort, paving the way for success.
+I aim to empower you to launch software applications, AI and automations with confidence and precision, to secure a dream outcome: more users, superior data quality, and enhanced product development. This approach not only elevates your team but also optimizes time and effort, paving the way for success.
 
 I'm not your typical developer. For better or for worse, I've been in the trenches more than I'd like, and my goal is to help you minimize regret by sharing my lessons with you and giving you a clear vision on what to invest in and what to build.
 
 ---
 
-Take a look, and shoot me an [email](mailto:mikececco2000@gmail.com) about what your team is looking for.
+Take a look, and shoot me an [email](mailto:mikececconello00@gmail.com) about what your team is looking for.
 
 !!! note "More Background"
+
+    - Helped a french-startup to automate their super-messy order management system.
 
     - Lead a small team of Software Developers and Machine Learning Engineers.
 
@@ -22,7 +24,7 @@ Take a look, and shoot me an [email](mailto:mikececco2000@gmail.com) about what 
 
 ## What do I do?
 
-My expertise includes fullstack software development, prompt engineering and embedding finetuning.
+My expertise includes fullstack software development, AI engineering and automating processes.
 
 !!! question "What does working with me look like?"
 
@@ -32,9 +34,9 @@ My expertise includes fullstack software development, prompt engineering and emb
     * **Product Vision**: Work together to align your product vision with company goals and set up successful roadmap.
     <!-- * **Launch**: Ensure [observability](./writing/posts/llmops.md) during launch to collect essential data for a strong data strategy. -->
     <!-- * **Coaching**: Enhance team performance with goal setting, metric definition, and skills development. -->
-    * **Prompt Prototyping**: Develop custom prompts and extraction pipelines and evaluations.
+    * **Flow Optimization**: Develop custom flows to automate and make processes more efficient.
 
-    Make these decisions with someone who's done it before.  Shoot me an [email](mailto:mikececco2000@gmail.com) about what problems you're facing and we can set up a time to chat.
+    Make these decisions with someone who's done it before.  Shoot me an [email](mailto:mikececconello00@gmail.com) about what problems you're facing and we can set up a time to chat.
 
 ## What do I offer?
 
@@ -42,11 +44,11 @@ I offer one type of service:
 
 ### 1. Software Development
 
-I will help you cut through the bloat of developing your application and, help your business reach users, grow revenue and increase market cap. Reach out via [email](mailto:mikececco2000@gmail.com) to get started.
+I will help you cut through the bloat of developing your application and, help your business reach users, grow revenue and increase market cap. Reach out via [email](mailto:mikececconello00@gmail.com) to get started.
 
 **Here’s what you get:**
 
-- **On-Demand DEvelopment:** Asynchronous development, adhoc meetings for priorities alignment and overcoming challenges.
+- **On-Demand Development:** Asynchronous development, adhoc meetings for priorities alignment and overcoming challenges.
 <!-- - **Growth & Efficiency:** Enhance your team's skills and streamline AI/ML processes.
 - **Expert Network:** Connect with leading specialists across various fields to expand your business network. -->
 
@@ -67,9 +69,9 @@ In addition to everything mentioned in strategic consulting, you receive:
 
 A 50% deposit is required to start, with the remainder payable within 30 days. Monthly billing thereafter. For early stage companies, I'm open to discussing equity if that aligns better with your goals. -->
 
-If you have further questions get in touch via [email](mailto:mikececco2000@gmail.com) or book a <a href="#" data-cal-link="mike-cecconello-x03y6u/30min" data-cal-namespace="" data-cal-config='{"layout":"month_view"}'>call</a>.
+If you have further questions get in touch via [email](mailto:mikececconello00@gmail.com) or book a <a href="#" data-cal-link="mike-cecconello-x03y6u/30min" data-cal-namespace="" data-cal-config='{"layout":"month_view"}'>call</a>.
 
-## Previous Clients
+<!-- ## Previous Clients
 
 - [Gigstarter](https://gigstarter.com/): Europe’s largest open platform for booking live music.
 - [Quicargo](http://quicargo.com/): Order transport by truck in the most efficient and sustainable way.
@@ -77,7 +79,7 @@ If you have further questions get in touch via [email](mailto:mikececco2000@gmai
 - [Remotely](https://tryremotely.com/): Remote job board, connecting talented professionals with companies embracing the future of work.
 - [Findble](https://drive.google.com/drive/folders/1oenhyTkMmJtmff0EqWyE5WAP9AA0a6Oc)
 
-If you have further questions about my past work or what I can do for your project and team, get in touch via [email](mailto:jason+hire@jxnl.co)
+If you have further questions about my past work or what I can do for your project and team, get in touch via [email](mailto:jason+hire@jxnl.co) -->
 
 
 <script type="text/javascript">
