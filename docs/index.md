@@ -1,13 +1,14 @@
 # :boom: hello there it's Mike
 
-Currently working as a Fullstack Product Engineer. I use my expertise in software development and AI to help fast-growing startups build out their applications with or without AI.
+Currently working as a AI Fullstack Product Engineer. I use my expertise in software development and AI to help fast-growing startups build out their applications, automate their processes and make them more money.
 
 ## [Software Development or Consulting Services](./services.md)
 
-IF you want to work with me, I am available for consulting and advisory services. I can help you with fullstack software development, AI engineering, and product management needs.
+If you want to work with me, I am available for consulting and advisory services. I can help you with fullstack software development, AI engineering, product management and process automation needs.
 
 ## [Writing](./writing/index.md)
 
+- [Next Chapter](./writing/posts/next-chapter.md)
 - [Who am I](./writing/posts/whoami.md)
 
 <!-- ## AI Engineering
@@ -43,12 +44,15 @@ IF you want to work with me, I am available for consulting and advisory services
 - [Kay.ai](http://Kay.ai): Retrieve relevant context from the semantic web for your LLM apps with fully hosted embeddings. -->
 ## Side Projects
 
-- <a href="https://t.me/SecondHumanBrainBot" target="_blank">AI Second Brain Telegram Bot</a> — WIP
-- <a href="https://t.me/ExpensesOnTelegramBot" target="_blank">AI Expense Tracker Telegram Bot</a> — WIP
+- <a href="https://github.com/mikececco/imagify" target="_blank">AI Image Editing Tools</a> — WIP
+- <a href="https://github.com/mikececco/notion-clone" target="_blank">AI Notion Clone</a> — WIP
 - Self-hosted <a href="https://github.com/mikececco/typescript-first-crypto-exchange" target="_blank">Crypto Exchange</a>
+<!-- - <a href="https://t.me/SecondHumanBrainBot" target="_blank">AI Second Brain Telegram Bot</a> — WIP
+- <a href="https://t.me/ExpensesOnTelegramBot" target="_blank">AI Expense Tracker Telegram Bot</a> — WIP
+- Self-hosted <a href="https://github.com/mikececco/typescript-first-crypto-exchange" target="_blank">Crypto Exchange</a> -->
 
-## Work History
+<!-- ## Work History
 
 - Fullstack Product Engineer <a href="https://www.gigstarter.com" target="_blank">@Gigstarter</a> — 2023 - Present
 - Product Manager <a href="https://quicargo.com/" target="_blank">@Quicargo</a> — 2022
-- Digital Management <a href="https://college.h-farm.com/en/" target="_blank">@H-Farm College</a>
+- Digital Management <a href="https://college.h-farm.com/en/" target="_blank">@H-Farm College</a> -->
